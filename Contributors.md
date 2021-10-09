@@ -117,5 +117,10 @@ Name: [Muhammad Iqbal R](https://github.com/miqbalrr) <br/>
 Place: Indonesia <br/>
 About: BACKEND Developer <br/>
 
+Name: [Ambar-Ghaffar](https://github.com/Ambar-Ghaffar) <br/>
+Place: Pakistan <br/>
+About: Frontend Developer <br/>
+
+
 
 
